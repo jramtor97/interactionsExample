@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.interactiontutorial.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Public\\Documents\\Unity Projects\\InteractionTutorial\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "InteractionTutorial [Testing]"
+        }
+      }
+    }
+  ]
+}
